@@ -1,1 +1,2 @@
-# CloudFlare-SpeedTest
+一个简单的CF 节点测速
+网络环境:山东联通
